@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-04-19T04:38:48.455Z'
+datePublished: '2016-04-19T04:38:51.251Z'
 sourcePath: _posts/2016-04-15-kazuyo-sejima-to-design-next-generation-express-train-that-m.md
 inFeed: true
 isBasedOnUrl: 'http://www.spoon-tamago.com/2016/03/14/kazuyo-sejima-to-design-next-generation-bullet-train-that-melds-into-the-environment/'
@@ -21,7 +21,7 @@ author:
     url: 'http://www.spoon-tamago.com/author/admin/'
     avatar: {}
 published: true
-dateModified: '2016-04-19T04:38:48.040Z'
+dateModified: '2016-04-19T04:38:49.639Z'
 title: Kazuyo Sejima to Design Next Generation Express Train that Melds Into the Environment
 app_links: []
 publisher:
