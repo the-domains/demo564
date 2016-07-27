@@ -1,0 +1,26 @@
+color:
+  saturation: 0.1587360510602593
+  brandStrength: 0.1286124547477812
+  rhythmicContrast: 0.005106094758957624
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  lightness: 0.9043930151965469
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.4806879661045969
+typography_spectrum: 0.8251949457917362
+name: demo564
